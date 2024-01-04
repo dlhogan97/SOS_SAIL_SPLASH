@@ -1,4 +1,6 @@
-
+/data/
+/misc/
+*.mapbox_token
 old_figures/radiosondes/SAIL_sonde_2023-01-14_23UTC.png
 old_figures/radiosondes/SAIL_sonde_2023-01-14_11UTC.png
 old_figures/radiosondes/SAIL_sonde_2023-01-12_11UTC.png
